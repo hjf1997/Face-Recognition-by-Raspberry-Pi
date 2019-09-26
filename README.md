@@ -1,4 +1,4 @@
-# Raspberry Pi face recognition code for dorm door.
+# Raspberry Pi face recognition code for the dorm door.
 This project provides students living in a dorm a convenient way to establish a face recognition system to control the door.
 
 Click the image to watch the video. (In Chinese)
